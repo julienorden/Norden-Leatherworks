@@ -1,0 +1,51 @@
+body {
+  /* background-color: #321d0e; */
+  font-family: 'Mallory', sans-serif;
+  margin: auto 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+
+/* NAV SECTION */
+
+.navbar {
+  background-color: #321d0e;
+  padding: 0 0 20px;
+}
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.header-section {
+  background-color: #321d0e;
+}
+
+.main-header {
+  color: chocolate;
+  font-family: 'Old Standard TT', serif;
+  /* text-shadow: */
+  Font-size: 8vw;
+}
+
+/* WORKS SECTION */
+
+#works, .navbar-brand {
+  text-align: left;
+}
+
+.card {
+  margin-bottom: 2rem;
+  }
+
+.works-item {
+    white-space: nowrap;
+  }
+
+.works-image {
+  width: 100%;
+}
